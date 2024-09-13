@@ -1,0 +1,17 @@
+{
+  "name": "js1",
+  "version": "1.0.0",
+  "main": "1st.js",
+  "scripts": {
+    "start": "nodemon 1st.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.20.0",
+    "mongoose": "^8.6.1",
+    "nodemon": "^3.1.4"
+  }
+}
